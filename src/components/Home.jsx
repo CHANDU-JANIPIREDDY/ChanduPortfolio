@@ -66,7 +66,7 @@ function Home() {
                 <a href="#about">
                   <button className="home-button"> About Me </button>
                 </a>
-                <a href="/CHANDU_RESUME.pdf" download="CHANDU_MAIN_RESUME.pdf">
+                <a href="/CHANDU_RESUME.pdf" download="CHANDU_RESUME.pdf">
                   <button className="home-button"> Download CV </button>
                 </a>
               </div>
