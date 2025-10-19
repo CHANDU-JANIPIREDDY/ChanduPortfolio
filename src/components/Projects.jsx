@@ -28,14 +28,14 @@ function Projects() {
     {
       title: "PORTFOLIO WEBSITE",
       description: "Portfolio website to showcase projects and skills.",
-      image: "https://media.licdn.com/dms/image/v2/D5622AQFM99mzXTo3zw/feedshare-shrink_2048_1536/B56ZP.dgK.GQAo-/0/1735140967826?e=1759968000&v=beta&t=wMRV0UdAkCYmjxLj2FHLtj1y7tt7OiwYK-DWPDePdbY",
+      image: "https://media.licdn.com/dms/image/v2/D5622AQFM99mzXTo3zw/feedshare-shrink_800/B56ZP.dgK.GQAg-/0/1735140967792?e=1762387200&v=beta&t=uaWIzWynYqj3j02nFHmgzE_7jU8ehvpFknyvPF7BCiM",
       demo: "https://my-portfolio-73puzo5g4-chandus-projects-de4e27eb.vercel.app/",
       github: "https://github.com/CHANDU-JANIPIREDDY/MyPortfolio",
     },
     {
       title: "UI/UX DESIGNS",
       description: "UI/UX designs for web and mobile applications.",
-      image: "https://media.licdn.com/dms/image/v2/D5622AQGuKA476Be_bA/feedshare-shrink_800/B56ZPVPmgHHIAo-/0/1734449459372?e=1759968000&v=beta&t=Fe-OzSGtQ8VVmZk1YPwN8SaouWaEJD7AV7ugb2fu1jw",
+      image: "https://media.licdn.com/dms/image/v2/D5622AQGuKA476Be_bA/feedshare-shrink_800/B56ZPVPmgHHIAo-/0/1734449459372?e=1762387200&v=beta&t=cRvNq9_Pm038tl6yRtvblDKV_r6cUST7Kl-qpIF0oaY",
       demo: "https://drive.google.com/file/d/1E6tCXW3hTyzf9P9JygPFhmO8toueA7aS/view",
       github: "",
     },
