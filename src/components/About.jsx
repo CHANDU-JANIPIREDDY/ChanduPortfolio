@@ -11,7 +11,7 @@ function About() {
             </div>
             <div className="col-12 col-md-6 text-center">
               <img
-                src="https://res.cloudinary.com/ddaults7y/image/upload/v1734927337/a0f9c12e-23f8-4f07-b380-cd7d5e5afdda_gcwqmf.jpg"
+                src="https://res.cloudinary.com/dymntfrwl/image/upload/v1775557250/WhatsApp_Image_2026-04-07_at_3.50.29_PM_n08giy.jpg"
                 className="about-image"
                 alt="About Chandu"
               />
