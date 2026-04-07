@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "aos": "^2.3.4"
-=======
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -35,6 +31,5 @@
     "globals": "^16.3.0",
     "serve": "^14.2.5",
     "vite": "^7.1.2"
->>>>>>> c4aef37bc087bee025139f2a1a67f30ea921b002
   }
 }
