@@ -16,7 +16,7 @@ function Home() {
             >
               <div className="home-image-container">
                 <img
-                  src="https://res.cloudinary.com/ddaults7y/image/upload/v1734879796/5b0bfe66-2f39-456e-9bac-01da0c70dfce_uuxais.jpg"
+                  src="https://res.cloudinary.com/dymntfrwl/image/upload/v1775558483/WhatsApp_Image_2026-04-07_at_4.10.59_PM_isnd7y.jpg"
                   className="home-image"
                   alt="Chandu profile"
                 />
@@ -66,7 +66,7 @@ function Home() {
                 <a href="#about">
                   <button className="home-button"> About Me </button>
                 </a>
-                <a href="/CHANDU_RESUME.pdf" download="CHANDU_MAIN_RESUME.pdf">
+                <a href="/CHANDU_RESUMEE.pdf" download="CHANDU_RESUMEE.pdf">
                   <button className="home-button"> Download CV </button>
                 </a>
               </div>

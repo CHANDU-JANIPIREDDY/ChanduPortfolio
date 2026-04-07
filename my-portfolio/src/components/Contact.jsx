@@ -42,7 +42,7 @@ function Contact() {
             </div>
             <div className="col-12 col-md-5">
               <img
-                src="https://res.cloudinary.com/ddaults7y/image/upload/v1735102326/WhatsApp_Image_2024-12-25_at_10.21.26_AM_h4hi90.jpg"
+                src="https://res.cloudinary.com/dymntfrwl/image/upload/v1775557523/WhatsApp_Image_2026-04-07_at_3.55.04_PM_t3y5km.jpg"
                 alt="Contact"
                 className="contact-image"
               />
